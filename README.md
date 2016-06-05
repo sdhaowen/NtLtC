@@ -1,30 +1,23 @@
 # Never too Late to Code
 
-Coding has little to do with operating or programming a computer. It is more about information processing.
+## 核心思想
 
-編碼其實和操作計算機和計算機編程關係不大。編碼更主要的是信息處理。
+- 編碼其實和操作計算機和計算機編程關係不大。編碼更主要的是信息處理。
+- 這是一個開放式合作學習平台，沒有作業，也不考試。
+- 我們的目的是幫助大家學會使用和創造工具解決實際問題以及幫助大家學會以數據和編碼的眼光看問題。
+- 但是如果你只是打醬油，什麼都學不會。浪費的是你自己的時間。
 
-There are no homework assignments or tests in this group. It is mainly to teach you tools and help you open your mind.
+## 最新项目
 
-本群沒有作業，也不考試。主要是教大家使用工具和幫助大家開眼界。
+- 我們給大家每個人建立了一個以你自己的GitHub用戶名為名字的子目錄。
+- 每個子目錄裡面有一個空的README.md文件讓你們練習markdown格式。中英文都可以（標點符號和關鍵詞必須用英文）。
+- 請只修改自己那份文件，在時機成熟時發合併請求。 
+- 另外作為一個合作修改數據文件的練習，大家可以打開這個文件：[members.md](members.md)和[members.csv](members.csv), 加上自己的內容，在時機成熟時發合併請求。 
 
-But if you do not do anything, you do not learn anything. You are wasting your own time.
+大家合作愉快 :smile:
 
-但是如果你只是打醬油，什麼都學不會。浪費的是你自己的時間。
 
-For [each of you](members.md), I made a directory with the same name as your GitHub user name. There is an empty README.md for you to practice markdown in English or Chinese (symbols and keywords in English MUST be in English).
-
-我為[大家每個人](members.md) 建立了一個以你自己的GitHub用戶名為名字的子目錄。裡面有一個空的README.md文件讓你們練習markdown格式。中英文都可以（標點符號和關鍵詞必須用英文）。
-
-Please only edit your own file. When you think it is ready, send me a pull request. 
-
-請只修改自己那份文件，在時機成熟時可以給我發合併請求。 
-
-Thank you.
-
-謝謝。
-
-References:
+參考資料:
 
 - https://wikipedia.org/wiki/README
 - http://tom.preston-werner.com/2010/08/23/readme-driven-development.html ([Source](https://github.com/mojombo/mojombo.github.io/blob/master/_posts/2010-08-23-readme-driven-development.md))
