@@ -1,3 +1,13 @@
+#20160605 my first trying!!!
+
+English words has returned to my colledge English teacher.^-^
+
+I feel very poor at the writing.
+
+Follow Prof Liu and other partners,i will try my best.
+
+
+
 # Never too Late to Code
 
 Coding has little to do with operating or programming a computer. It is more about information processing.
